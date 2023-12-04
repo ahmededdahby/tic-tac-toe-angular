@@ -1,0 +1,17 @@
+{
+  "apiKey": "AIzaSyD_6-VMOVtF6xqTo7KEMsIrkKgIUQHMefc",
+  "authDomain": "angular-tic-tac.firebaseapp.com",
+  "projectId": "angular-tic-tac",
+  "storageBucket": "angular-tic-tac.appspot.com",
+  "messagingSenderId": "229113907",
+  "appId": "1:229113907:web:309d1aab547bc5b950a346",
+  "measurementId": "G-PZQJSMCMBC",
+  "hosting": [
+    {
+      "public": "dist/tic-tac-toe",
+      "target": "tic-tac-toe",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
